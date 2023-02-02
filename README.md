@@ -18,7 +18,7 @@ Note that this is a git repository, so there is a history, if you want to look a
 6. Open a terminal in the folder where you just copied the raw scripts. And execute the following command: 
     ```
     sfk rep -binary /525343370C/525343370A/ -dir . -file .ysc
-    --> replace byte: 0xB with 0xA
+    --> replace byte: 0xC with 0xA
     --> only shows the diff
 
     sfk rep -binary /525343370C/525343370A/ -dir . -file .ysc -yes
